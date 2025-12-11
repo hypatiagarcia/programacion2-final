@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación Android para el registro de asistencia a clases, desarrollada como trabajo final para la materia de Programación II.
 
+📄 **Documentación de Pruebas:** Puedes consultar los casos de prueba y capturas de pantalla en [DOCUMENTACION_PRUEBAS.md](DOCUMENTACION_PRUEBAS.md).
+
 ## Características
 
 *   **Arquitectura MVVM:** Implementación de Model-View-ViewModel con LiveData y Coroutines.

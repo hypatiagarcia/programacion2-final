@@ -20,7 +20,7 @@
 **Resultado Esperado:** Se regresa a la lista y aparece el nuevo registro.
 
 **Captura de Pantalla:**
-*(Inserta aquí la captura de pantalla del formulario lleno y luego la lista con el ítem)*
+<img src="screenshots/registro.jpeg" width="45%"> <img src="screenshots/registro_2.jpeg" width="45%">
 
 ---
 
@@ -36,7 +36,7 @@
 **Resultado Esperado:** El registro en la lista muestra el nuevo nombre.
 
 **Captura de Pantalla:**
-*(Inserta aquí la captura de pantalla del formulario en modo edición y la lista actualizada)*
+<img src="screenshots/edicion.jpeg" width="45%"> <img src="screenshots/edicion_2.jpeg" width="45%">
 
 ---
 
@@ -52,7 +52,7 @@
 **Resultado Esperado:** El texto cambia a "Sincronizado" en verde.
 
 **Captura de Pantalla:**
-*(Inserta aquí la captura de pantalla del estado antes y después de sincronizar)*
+![Sincronización](screenshots/sincronizacion.jpeg)
 
 ---
 
@@ -67,4 +67,4 @@
 **Resultado Esperado:** Los registros creados anteriormente siguen apareciendo en la lista.
 
 **Captura de Pantalla:**
-*(Inserta aquí la captura de pantalla al reabrir la app)*
+![Persistencia de datos](screenshots/persistencia.jpeg)
