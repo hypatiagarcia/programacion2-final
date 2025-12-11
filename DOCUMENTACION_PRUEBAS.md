@@ -1,6 +1,6 @@
 # Documentación de Pruebas - Asistencia Clases
 
-**Alumno:** [Tu Nombre]
+**Alumno:** Hypatia Garcia
 **Materia:** Programación II
 **Fecha:** 2025
 
