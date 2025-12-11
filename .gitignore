@@ -1,0 +1,25 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Google Services
+google-services.json
+
+# Keystore files
+*.jks
+*.keystore
+
+# Android Studio
+.navigation/
+.layout/
+.settings/
+
+# Build files
+/app/build/

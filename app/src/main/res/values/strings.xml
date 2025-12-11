@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Asistencia Clases</string>
+    <string name="title_attendance_list">Lista de Asistencia</string>
+    <string name="title_add_attendance">Registrar Asistencia</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_capture">Capturar Foto</string>
+    <string name="hint_student_name">Nombre del Estudiante</string>
+    <string name="label_date">Fecha:</string>
+    <string name="msg_saved">Asistencia guardada</string>
+    <string name="msg_synced">Sincronizado con éxito</string>
+    <string name="msg_error">Error al guardar</string>
+    <string name="menu_add">Agregar</string>
+    <string name="menu_sync">Sincronizar</string>
+</resources>
